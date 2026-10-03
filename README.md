@@ -10,7 +10,7 @@ A pair of browser games about software that turns the smallest job into an after
 
 ## The brief
 
-Make an ordinary office computer feel like a place worth exploring—and make its inconvenient software fun to use.
+Make an ordinary office computer feel like a place worth exploring, and make its inconvenient software fun to use.
 
 The experience begins at a dimensional CRT workstation. Entering a game expands its screen into a full Windows 98-style desktop, complete with application windows, shortcuts, a Start menu, and a taskbar.
 
